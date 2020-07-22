@@ -1,5 +1,6 @@
+## Bienvenido a mi repo
 
-![alt text](https://ibb.co/V97MHQJ)
+![alt text](https://i.ibb.co/qjtm0W7/REPO.png)
 
 <!--
 **voglernicolas/voglernicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
